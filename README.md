@@ -11,7 +11,7 @@ A game that simulates a world in which includes, an ant, flags, spiders, and foo
 - Using the buttons, players can control the ant in various way 
 - To win the game the player has to move the ant to the last possible flag (flag with highest sequence number) between the ant runs out of food or lose all health which happens when the ant collides with the spider
 
-## Commads:
+## Commands:
 - accelerate: increases the ant's speed 
 - brake: decrease the ant's speed
 - left/right: turns the ant perspectively 
@@ -19,5 +19,9 @@ A game that simulates a world in which includes, an ant, flags, spiders, and foo
 - collide with flag: accepts a number between 1-9, if that number is exactly 1 larger than the current flag that the ant is on, ant have made a good move
 - collide with spider: decreases ant's health by 1
 - game tick: decreases ant's food level by food consumption rate & move all the movable objects 
+
+## To play:
+- download all files in src folder
+- use eclipse to create a CodeName1 project 
 
 
