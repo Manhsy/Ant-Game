@@ -9,7 +9,7 @@ A game that simulates a world in which includes, an ant, flags, spiders, and foo
 ## How to play: 
 - The game world starts with ant at the fist flag's location & spiders, flag, food station at a random location 
 - Using the buttons, players can control the ant in various way 
-- To win the game the player has to move the ant to the last possible flag (flag with highest sequence number) between the ant runs out of food or lose all health which happens when the ant collides with the spider
+- To win the game the player has to move the ant to the last possible flag (flag with highest sequence number) before the ant runs out of food or lose all health which happens when the ant collides with the spider
 
 ## Commands:
 - accelerate: increases the ant's speed 
